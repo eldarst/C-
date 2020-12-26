@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/ClassRationalMap.dir/main.cpp.o  -o ClassRationalMap.exe -Wl,--out-implib,libClassRationalMap.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
